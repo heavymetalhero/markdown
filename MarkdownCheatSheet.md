@@ -94,14 +94,16 @@ To update your repositories type `sudo apt update` and press Enter.
 To update your repositories type `sudo apt update` and press Enter.
 
 ### Code Blocks
-Surround your code with \`\`\`. Type your codes language right after the the beginning \`\`\`  to get proper highlighting.
+Surround your code with \`\`\`. Type your codes language right after the the beginning \`\`\`  to get proper highlighting.  
+Input  
 ```
-```python
-text = "Hello World!"
-print(text)```
-```  
+    ```python
+    text = "Hello World!"
+    print(text)
+    ```
+```
 
-
+Output
 ```python
 text = "Hello World!"
 print(text)

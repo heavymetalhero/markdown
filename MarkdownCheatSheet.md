@@ -4,6 +4,7 @@ This cheat sheet will demonstrate Markdown code followed by it's output.
 
 ## Contents
 1. [Headings](#headings)
+8. [Horizontal Rules](#horizontal-rules)
 2. [Emphisis](#emphisis)
 3. [Blockquotes](#blockquote)
 4. [Lists](#lists)
@@ -12,6 +13,7 @@ This cheat sheet will demonstrate Markdown code followed by it's output.
 5. [Images](#images)
 6. [Code Blocks](#code-blocks)
 7. [Code](#code)
+9. [Links](#links)
 
 ## Headings
 ```
@@ -29,6 +31,14 @@ This cheat sheet will demonstrate Markdown code followed by it's output.
 #### Heading 4
 ##### Heading 5
 ###### Heading 6
+
+## Horizontal Rules
+```
+ *** 
+ ---
+```
+ *** 
+ ---
 
 ## Emphisis
 ```
@@ -108,3 +118,19 @@ Output
 text = "Hello World!"
 print(text)
 ```
+
+## Links
+```
+My blog is [heavymetalhero.net](https://heavymetalhero.net).
+```
+My blog is [heavymetalhero.net](https://heavymetalhero.net).
+
+You can also make a URl or email address into a link by enclosing it in angled brackets.  
+
+```
+<https://heavymetalhero.net>  
+<notmyreal@emai.com>
+```
+
+<https://heavymetalhero.net>  
+<notmyreal@emai.com>

@@ -1,2 +1,4 @@
 # Markdown Cheet Sheet
-I created this cheat sheet to use while learning Markdown.
+This is a cheet sheet I made while learning Markdown.
+
+***This is a work in progress.***

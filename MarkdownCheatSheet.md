@@ -1,6 +1,6 @@
 # Markdown Cheat Sheet
 
-This cheat sheet will demonstrate Markdown code followed by it's output.
+This cheat sheet will demonstrate Markdown code followed by it's output. A lot of places you can use markdown you can also use HTML. I don't care for HTML and am not including it in this guide.
 
 ## Contents
 1. [Headings](#headings)
